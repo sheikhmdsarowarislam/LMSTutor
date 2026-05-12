@@ -103,9 +103,9 @@ export function Navbar() {
                 </div>
                 <div className="flex text-base items-center gap-0.5">
                   <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent font-bold">
-                    Code
+                    Skilledu
                   </span>
-                  <span className="text-white font-bold">Tutor</span>
+                  <span className="text-white font-bold">Store</span>
                 </div>
               </h1>
             </Link>
